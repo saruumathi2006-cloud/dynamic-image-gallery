@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://23cb005-cmd.github.io/dynamic-image-gallery",
+  "homepage": "https://saruumathi2006-cloud.github.io/dynamic-image-gallery",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
